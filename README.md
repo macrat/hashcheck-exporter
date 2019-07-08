@@ -1,3 +1,7 @@
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/macrat/hashcheck-exporter.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/macrat/hashcheck-exporter.svg)
+![GitHub](https://img.shields.io/github/license/macrat/hashcheck-exporter.svg)
+
 hashcheck-exporter
 ==================
 
