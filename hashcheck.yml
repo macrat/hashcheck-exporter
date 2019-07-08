@@ -1,6 +1,6 @@
-workers: 3
+workers: 3  # number of workers for downloading.
 
 targets:
   - url: https://example.com/path/to/target
   - url: https://example.com
-    hash: 3587cb776ce0e4e8237f215800b7dffba0f25865cb84550e87ea8bbac838c423
+    hash: 3587cb776ce0e4e8237f215800b7dffba0f25865cb84550e87ea8bbac838c423  # will check is SHA256 hash of content that downloaded from web server have same as this hash.
