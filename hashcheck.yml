@@ -1,2 +1,6 @@
+workers: 3
+
 targets:
-  https://example.com: 3587cb776ce0e4e8237f215800b7dffba0f25865cb84550e87ea8bbac838c423
+  - url: https://example.com/path/to/target
+  - url: https://example.com
+    hash: 3587cb776ce0e4e8237f215800b7dffba0f25865cb84550e87ea8bbac838c423
